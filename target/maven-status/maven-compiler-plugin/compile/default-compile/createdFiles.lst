@@ -1,0 +1,7 @@
+com\wizardom\ipldashboard\batch\JobCompletionNotificationListener.class
+com\wizardom\ipldashboard\model\Match.class
+com\wizardom\ipldashboard\batch\data\MatchInput.class
+com\wizardom\ipldashboard\batch\config\MatchDataBatchConfig.class
+com\wizardom\ipldashboard\batch\config\MatchDataBatchConfig$1.class
+com\wizardom\ipldashboard\batch\MatchInputProcessor.class
+com\wizardom\ipldashboard\IplDashboardApplication.class
